@@ -34,7 +34,7 @@ if(Session::has('user'))
         <button type="submit" class="btn btn-info btn-sm"><i class="fa fa-fw fa-search"></i> Search</button>
       </form>
       <ul class="nav navbar-nav navbar-right">
-        <li class="btn-two"><a href="/cartlist"><i class="fa fa-shopping-cart"></i> ({{$total}})</a></li>
+        <li class="btn-two"><a href="/cartlist"><i class="fa fa-cart-plus"></i> ({{$total}})</a></li>
         @if(Session::has('user'))
         <li class="btn-two">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">{{Session::get('user')['name']}}
