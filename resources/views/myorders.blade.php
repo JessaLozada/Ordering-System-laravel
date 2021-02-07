@@ -1,6 +1,6 @@
 @extends('master')
 @section("content")
-<div class="custom-product purchase-page" style="margin-bottom: 30px>
+<div class="custom-product purchase-page" style="margin-bottom: 30px">
     <div class="col-sm-10">
         <div class="trending-wrapper">
             <h3>PURCHASE</h3>
