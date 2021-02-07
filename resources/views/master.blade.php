@@ -260,12 +260,11 @@
     }
     .panel-footer {
         text-align: center;
-        margin-top: 900px;
         padding: 10px 15px;
-        font-weight: bolder;
-        color: darkblue;
-        background-color: #64ffff5c;
-        border-top: 1px solid #006b6b;
+        font-size: 17px;
+        font-style: italic;
+        color: #fff;
+        background-image: url("https://meirsondermatology.com/wp-content/uploads/2015/01/meirson-header-background.png");
     }
 
 </style>
