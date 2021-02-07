@@ -1,3 +1,3 @@
 <footer>
-  <p class="panel-footer">Sales and Ordering System</p>
+  <div class="panel-footer">Sales and Ordering System</div>
 </footer>
