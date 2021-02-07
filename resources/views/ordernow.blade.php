@@ -1,6 +1,6 @@
 @extends('master')
 @section("content")
-<div class="custom-ordernow">
+<div class="custom-ordernow" style="margin-bottom: 570px">
     <div class="col-sm-10">
         <table class="table">
             <tbody>
