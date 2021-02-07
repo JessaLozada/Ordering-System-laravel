@@ -40,7 +40,7 @@ if(Session::has('user'))
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">{{Session::get('user')['name']}}
           <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="/logout">Logout</a></li>
+            <li><a href="/logout"><i class="fa fa-power-off"></i> Logout</a></li>
           </ul>
         </li>
         @else
